@@ -13,4 +13,4 @@ Lets talk about language compilers and basic principles behind it. It sounds a b
 
 Slides: https://speakerdeck.com/alenakhineika/compiler-in-javascript-using-antlr
 
-![Me talking about compilers](https://raw.githubusercontent.com/alenakhineika/berlinjs-august-2018/master/talk.jpg)
+<img src="https://raw.githubusercontent.com/alenakhineika/berlinjs-august-2018/master/talk.jpg" alt="Me talking about compilers" width="600"/>
