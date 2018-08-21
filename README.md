@@ -2,9 +2,9 @@
 
 My talk at [BerlinJS](https://berlinjs.org) meetup on the 16th of August 2018.
 
-Event: https://www.meetup.com/Berlin-JS/events/248668759/
-Based on my blog post: https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
-Project: https://github.com/alenakhineika/js-runtime
+* [The event on meetup.com](https://www.meetup.com/Berlin-JS/events/248668759/)
+* [This talk is based on my blog post on Medium](https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f)
+* [A sample project from the blog post](https://github.com/alenakhineika/js-runtime)
 
 ## Abstract
 
@@ -14,6 +14,6 @@ Lets talk about language compilers and basic principles behind it. It sounds a b
 
 ## Outcome
 
-Slides: https://speakerdeck.com/alenakhineika/compiler-in-javascript-using-antlr
+You can find slides from my talk [here](https://speakerdeck.com/alenakhineika/compiler-in-javascript-using-antlr).
 
 <img src="https://raw.githubusercontent.com/alenakhineika/berlinjs-august-2018/master/talk.jpg" alt="Me talking about compilers" width="600"/>
