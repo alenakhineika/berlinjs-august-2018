@@ -1,7 +1,10 @@
 # Compiler in JavaScript using ANTLR
 
-My talk at [BerlinJS](https://berlinjs.org) meetup on the 16th of August 2018
-https://www.meetup.com/Berlin-JS/events/248668759/
+My talk at [BerlinJS](https://berlinjs.org) meetup on the 16th of August 2018.
+
+Event: https://www.meetup.com/Berlin-JS/events/248668759/
+Based on my blog post: https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
+Project: https://github.com/alenakhineika/js-runtime
 
 ## Abstract
 
