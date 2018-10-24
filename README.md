@@ -1,7 +1,6 @@
 # Compiler in JavaScript using ANTLR
 
-Event: [BerlinJS](https://berlinjs.org)
-Date: 16.08.2018
+[BerlinJS](https://berlinjs.org), 16.08.2018
 
 There are plenty of options, if you need to translate one language to another (for example English to German). But what about programming languages? Is it possible to translate JavaScript to Python? Is there any way to customise this process? Where to start?
 
