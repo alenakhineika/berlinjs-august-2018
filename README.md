@@ -8,6 +8,6 @@ This talk was about language compilers and basic principles behind it, a bit sci
 
 Based on my [Compiler in JavaScript using ANTLR](https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f) blog post.
 
-The talk wasn't recorded, but check the [pdf with a slide deck](https://speakerdeck.com/alenakhineika/compiler-in-javascript-using-antlr).
+The talk wasn't recorded, but check the [pdf with a slide deck](./berlin-js-slides.pdf).
 
-<img src="./berlin-js-talk.jpg" alt="./berlin-js-slides.pdf" width="600"/>
+<img src="./berlin-js-talk.jpg" alt="Me talking about compilers" width="600"/>
