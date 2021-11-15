@@ -10,4 +10,4 @@ Based on my [Compiler in JavaScript using ANTLR](https://medium.com/dailyjs/comp
 
 The talk wasn't recorded, but check the [pdf with a slide deck](https://speakerdeck.com/alenakhineika/compiler-in-javascript-using-antlr).
 
-<img src="./berlin-js-talk.jpg" alt="Me talking about compilers" width="600"/>
+<img src="./berlin-js-talk.jpg" alt="./berlin-js-slides.pdf" width="600"/>
